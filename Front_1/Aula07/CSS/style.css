@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(223, 215, 185);
+}
+
+#titulo_principal {
+    color: #0d1b97;
+}
+
+.job-title {
+    background-color:#1726ad;
+    color:#898dbe;
+}
+
+.cor_do_paragrafo {
+    color:rgb(51, 51, 51);
+}
+
+#cor_da_lista {
+    background-color:333333;
+    color: rgb(223, 215, 185);
+}

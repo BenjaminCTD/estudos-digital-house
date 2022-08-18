@@ -1,0 +1,107 @@
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD
+$ mkdir DH
+mkdir: cannot create directory ‘DH’: File exists
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD
+$ rmdir DH
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD
+$ mkdir DH
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD
+$ cd DH/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$ mkdir integracao_1e2
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$ mv integracao_1e2 integracao_aula1e2
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$ cd integracao_aula1e2
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ rmdir historia_da_contabilidade o_que_faremos_hoje servidores interfaces_de_usuario infraestrutura
+rmdir: failed to remove 'historia_da_contabilidade': No such file or directory
+rmdir: failed to remove 'o_que_faremos_hoje': No such file or directory
+rmdir: failed to remove 'servidores': No such file or directory
+rmdir: failed to remove 'interfaces_de_usuario': No such file or directory
+rmdir: failed to remove 'infraestrutura': No such file or directory
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ mkdir historia_da_contabilidade o_que_faremos_hoje servidores interfaces_de_usuario infraestrutura
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ cd historia_da_contabilidade/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/historia_da_contabilidade
+$ mkdir resumo.txt
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/historia_da_contabilidade
+$ cd .
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/historia_da_contabilidade
+$ cd 
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~
+$
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~
+$ cd Desktop/Digital_House_CTD/DH/integracao_aula1e2/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ cd o_que_faremos_hoje/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/o_que_faremos_hoje
+$ mkdir resumo.txt
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/o_que_faremos_hoje
+$ cd ..
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ cd servidores/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/servidores
+$ mkdir resumo.txt
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/servidores
+$ cd ..
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ cd interfaces_de_usuario/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/interfaces_de_usuario
+$ mkdir resumo.txt
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/interfaces_de_usuario
+$ cd ..
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ cd infraestrutura/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/infraestrutura
+$ mkdir resumo.txt
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2/infraestrutura
+$ cd ..
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH/integracao_aula1e2
+$ cd ..
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$ is -R
+bash: is: command not found
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$ cd ..
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD
+$ cd DH/
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$ Is -R
+bash: Is: command not found
+
+Benjamim@DESKTOP-FT8K6Q7 MINGW64 ~/Desktop/Digital_House_CTD/DH
+$

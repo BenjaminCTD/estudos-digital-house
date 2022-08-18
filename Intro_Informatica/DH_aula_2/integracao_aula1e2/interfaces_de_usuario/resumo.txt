@@ -1,0 +1,5 @@
+A interface gráfica do usuário (GUI) é o conteúdo gráfico mediante o qual se visualiza uma informação do equipamento em uma tela.
+
+terminal é um exemplo de interface de texto  uma interface que nos ajuda a nos comunicarmos com um computador, por meio de um teclado para entrada de dados e uma tela que mostra apenas caracteres alfanuméricos (sem gráficos).
+
+Interface de voz (VUI): Trata-se de programas capazes de identificar e interpretar a fala. O exemplo mais claro que temos é o recente auge das inteligências artificiais como a Siri, que pode ser comandada através da voz.
