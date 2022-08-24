@@ -1,0 +1,210 @@
+html,
+body {
+    height: 100%
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'");
+
+*{
+    box-sizing: border-box;
+    font-family: "roboto", sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+
+.BarDiscount {
+    background-color: #1cd1b0;
+    position: relative;
+    
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 4px 10px 5px;
+    margin: 0%;
+}
+
+
+h1 {
+    background-color: #00669f;
+    padding: 28px 28px 26px;
+    margin: 0%;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+h3 {
+    
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    position: relative;
+    bottom: -32px;
+}
+
+main {
+        position: absolute;
+        width: 998px;
+        height: 597.01px;
+        left: 112px;
+        top: 223.99px;
+}
+
+.cartao-alerquina {
+    position: absolute;
+    width: 374px;
+    height: 615px;
+    left: 572px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background: #f3f3f3;
+}
+
+.descricao {
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    position: relative;
+    bottom: -66px;
+    margin: 18px 28px;
+    color: #605a5a;
+}
+
+.cartao-batman {
+    position: absolute;
+    width: 374px;
+    height: 615px;
+    left: 112px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    background: #f3f3f3;
+}
+
+.like-bat {
+
+    position: absolute;
+    left: 6%;
+    width: 35px;
+    top: 3.25%;
+    bottom: 92%;
+
+    background: url(img/Vector.jpg);
+
+}
+
+.like-alerq {
+
+    position: absolute;
+    left: 6%;
+    width: 35px;
+    top: 3.25%;
+    bottom: 92%;
+    
+    background: url(img/Vector.jpg);
+}
+
+.bg-caverna {
+    width: 374px;
+height: 217.81px;
+left: 112px;
+top: 225.11px;
+
+background: url(img/cavernadobat.jpg);
+border-radius: 16px 16px 0px 0px;
+}
+
+.perfil-bat {
+    position: relative;
+    width: 136.43px;
+    height: 120.17px;
+    left: 119.57px;
+    top: 128.57px;
+
+background: url(img/batmanperfil.jpg);
+border-radius: 72px;
+
+}
+
+.ver-mais-bat {
+    background: #00669f;  
+    padding: 16px 40px 17px 40px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    border-radius: 50px;
+
+    color: #ffffff;
+
+    position: relative;
+    width: 145.34px;
+    height: 54.76px;
+    top: 108px;
+}
+
+.ver-mais-alerq {
+    background: #00669f;  
+    padding: 16px 40px 17px 40px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    border-radius: 50px;
+
+    color: #ffffff;
+
+    position: relative;
+    width: 145.34px;
+    height: 54.76px;
+    top: 109px;
+}
+
+.bg-alerquina {
+
+    width: 373.57px;
+    height: 217.81px;
+    left: 572.43px;
+    top: 225.11px;
+
+background: url(img/fundoalerquina.jpg);
+border-radius: 16px 16px 0px 0px;
+}
+
+.perfil-alerquina {
+
+    position: relative;
+    width: 136.69px;
+    height: 120.69px;
+    left: 119.57px;
+    top: 128.57px;
+
+background: url(img/alerquinaperfil.jpg);
+border-radius: 72px;
+
+}
+
+footer {
+    font-size: 12px;
+    background-color: #00669f;
+    padding: 16px 28px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #fff9f9;
+    width: 100%;
+    margin: 0%;
+    left: 0px;
+    top: 972px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
